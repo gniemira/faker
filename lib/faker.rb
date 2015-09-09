@@ -165,6 +165,7 @@ require 'faker/bitcoin'
 require 'faker/avatar'
 require 'faker/braincrave'
 require 'faker/dog'
+require 'faker/chopped'
 require 'faker/speech'
 
 require 'extensions/array'
